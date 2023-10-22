@@ -1,1 +1,1 @@
-myindex.html
+index.html
